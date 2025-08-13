@@ -79,6 +79,7 @@ Thumbs.db
 # Ignore all checkpoint files but keep the directory by tracking .gitkeep
 checkpoints/*
 !checkpoints/.gitkeep
+training_log.csv
 
 # Gemini files
 GEMINI.md
